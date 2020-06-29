@@ -138,12 +138,12 @@ const Footer: React.FC<FooterProps> = ({ footerData }) => {
       </div>
       <div className="py-4 flex justify-center">
         <a
-          href="https://draftbox.co?ref=preview"
+          href="https://www.webanaya.com"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 uppercase"
         >
-          Published with DraftBox
+          Designed and Developed by WebAnaya Solutions
         </a>
       </div>
     </footer>
